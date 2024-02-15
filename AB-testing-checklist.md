@@ -1,0 +1,40 @@
+### Checklist
+
+- [ ]  **Defining Metrics**
+    - [ ]  Identify key performance indicators (KPIs)
+    - [ ]  Define how each metric is calculated
+- [ ]  **Assessing Metric Properties**
+    - [ ]  Check sensitivity of metrics
+    - [ ]  Verify reliability
+    - [ ]  Ensure validity
+    - [ ]  Determine practical significance
+- [ ]  **Experiment Design**
+    - [ ]  Choose unit of diversion (e.g., user ID, cookie)
+    - [ ]  Define target population
+    - [ ]  Ensure proper randomisation
+- [ ]  **Experiment Sizing and Duration**
+    - [ ]  Calculate required sample size
+    - [ ]  Determine experiment duration
+- [ ]  **Pre-Experiment Checks**
+    - [ ]  Perform invariant metric checks
+    - [ ]  Conduct sanity checks for data and distribution
+- [ ]  **Running the Experiment**
+    - [ ]  Monitor experiment continuously
+    - [ ]  Ensure accurate data collection
+- [ ]  **Analyzing Results**
+    - [ ]  Conduct statistical significance testing
+    - [ ]  Adjust for multiple metrics (if applicable)
+    - [ ]  Examine impact on different user segments
+- [ ]  **Post-Experiment Analysis**
+    - [ ]  Interpret results beyond statistical significance
+    - [ ]  Perform cohort analysis
+    - [ ]  Cross-validate with different methods
+- [ ]  **Decision Making**
+    - [ ]  Make a recommendation based on analysis
+    - [ ]  Align decision with business strategy
+- [ ]  **Ramp-Up and Full Launch**
+    - [ ]  Consider a gradual rollout
+    - [ ]  Perform final checks during ramp-up
+- [ ]  **Documentation and Learning**
+    - [ ]  Document the process and results
+    - [ ]  Share insights and learnings
