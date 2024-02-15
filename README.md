@@ -1,5 +1,5 @@
 
-![7576917a-27a5-436f-bb92-186e6241517b copy](https://github.com/alinemsm/The-Subtle-Art-of-AB-Testing/assets/4826198/11fecb8f-211a-42db-adc8-e10425f6f2e6)
+![7576917a-27a5-436f-bb92-186e6241517b copy](https://github.com/alinemsm/The-Subtle-Art-of-AB-Testing/assets/4826198/a17ad1e8-ec90-4a48-b455-82f2e4e1b6c7)
 
 # The Subtle Art of A/B Testing
 
@@ -11,6 +11,7 @@ So far, I've been leaning on these:
 
 - **Udacity's A/B Testing Course** - It's my go-to guide, really gets into the nitty-gritty, taught by Google experts with loads of experience.
 - **Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing** - Offers a broad overview, covering a lot of ground. Great as a reference.
+- **Statistical Methods in Online A/B Testing** - A solid intro to the stats behind A/B testing. 
 
 I'll add more papers and stuff as I go, especially the ones I keep coming back to.
 
