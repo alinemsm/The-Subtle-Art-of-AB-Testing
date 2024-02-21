@@ -11,7 +11,8 @@ So far, I've been leaning on these:
 
 - **Udacity's A/B Testing Course** - It's my go-to guide, really gets into the nitty-gritty, taught by Google experts with loads of experience.
 - **Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing** - Offers a broad overview, covering a lot of ground. Great as a reference.
-- **Statistical Methods in Online A/B Testing** - A solid intro to the stats behind A/B testing. 
+- **Introduction to Probability** by Joe Blitzstein & Jessica Hwang - A fun intro to probability, which is a big part of A/B testing.
+
 
 I'll add more papers and stuff as I go, especially the ones I keep coming back to.
 
